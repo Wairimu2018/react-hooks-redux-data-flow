@@ -195,3 +195,4 @@ In Redux, reducers are pure functions, which means that given the same arguments
 of state and action, they will always produce the same new state. It also means
 that our reducer never updates the previous state object, but rather creates a
 new updated object.
+.
